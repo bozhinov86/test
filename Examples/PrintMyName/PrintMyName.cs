@@ -4,7 +4,7 @@
     {
         static void Main()
         {
-            string myName ="My name is Mitko Bozhinov";
+            string myName ="My name is Mitko";
             Console.WriteLine(myName);
         }
     }
